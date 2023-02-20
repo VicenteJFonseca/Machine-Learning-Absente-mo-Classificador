@@ -10,4 +10,4 @@
 
 ## Fonte dos Dados
 
-O dataset está disponibilizado no Github
+O conjunto de dados foram obtidos de um hospital particular, mas a privacidade dos usuários foi preservada. A fim de promover a reprodutibilidade e a contribuição da comunidade, os dados estão disponíveis nesse repositório em uma pasta específica.

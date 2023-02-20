@@ -1,0 +1,801 @@
+DT_VAGA;FALTA_ANTERIOR;DIASEMANA;TURNO;ATENDIM;RESP;DS_AREA;DS_CONSULTAEXAME;DS_ATUACAO;SEXO;IDADE_ATD;ESCOLARIDADE;PROCED;ESTCIVIL;CD_HORA
+22/05/2020;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;50;Ensino Médio;Capital;Viúvo;10
+26/03/2020;1;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;51;Ensino Médio;Região Metropolitana;Casado;16
+08/11/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;F;61;Superior;Região Metropolitana;sem união estável;9
+24/11/2021;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;86;iletrado;Capital;Viúvo;10
+23/05/2022;1;1_Segunda-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;36;Ensino Médio;Capital;Solteiro;15
+03/01/2022;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;14;Ensino Fundamental;Outros estados;Solteiro;11
+24/07/2019;1;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;2;Fora de idade escolar;Região Metropolitana;Solteiro;16
+01/06/2021;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;24;Ensino Médio;Capital;Solteiro;11
+07/04/2020;0;2_Terça-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;M;3;Fora de idade escolar;Capital;Solteiro;14
+24/07/2020;0;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;3;Fora de idade escolar;Capital;Solteiro;8
+01/10/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;M;36;Ensino Médio;Outros estados;Solteiro;17
+16/10/2019;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa de Neurodesenvolvimento;Equipe Reab. Infantil 4;M;1;Fora de idade escolar;Interior;Solteiro;8
+16/11/2021;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 1;M;48;Superior;Capital;Solteiro;15
+16/09/2021;0;4_Quinta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;50;Ensino Médio;Região Metropolitana;Casado;10
+29/04/2019;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;4;Fora de idade escolar;Interior;Solteiro;10
+23/01/2019;0;3_Quarta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Pediatria;Atend. Específico;F;2;Fora de idade escolar;Interior;Solteiro;13
+09/09/2021;1;4_Quinta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 1;M;32;Ensino Fundamental;Região Metropolitana;Solteiro;15
+22/02/2022;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;9;iletrado;Interior;Solteiro;14
+24/09/2021;1;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;55;Superior;Capital;Casado;15
+28/05/2021;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;M;58;Ensino Fundamental;Outros estados;Casado;9
+12/04/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;27;Ensino Fundamental;Capital;Solteiro;10
+02/12/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - RVI;F;67;Superior;Capital;Solteiro;17
+24/04/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Orientação por Telefone;Equipe Pediatria - Pré-exame;F;15;Outros;Região Metropolitana;Solteiro;13
+05/11/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;53;Ensino Médio;Capital;Casado;9
+21/01/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;44;Ensino Fundamental;Capital;Casado;11
+05/02/2021;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;F;36;Superior;Região Metropolitana;Casado;9
+23/08/2022;0;2_Terça-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;65;Ensino Fundamental;Região Metropolitana;Casado;10
+02/05/2022;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;22;Ensino Médio;Capital;Solteiro;9
+28/11/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;65;iletrado;Capital;Casado;10
+03/09/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;50;Ensino Médio;Capital;Solteiro;16
+08/04/2021;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;41;Ensino Médio;Interior;Casado;10
+16/02/2022;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reavaliação pós-consulta;Equipe LM;F;78;Ensino Médio;Capital;Casado;17
+25/05/2021;0;2_Terça-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;M;66;Ensino Fundamental;Capital;Casado;17
+19/06/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;41;Superior;Capital;Sem informação;16
+29/04/2019;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM;M;48;Ensino Fundamental;Interior;Casado;15
+09/06/2022;0;4_Quinta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;F;12;Fora de idade escolar;Interior;Solteiro;8
+26/03/2021;0;5_Sexta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Integrado;Equipe Reab. Infantil 1;F;2;Fora de idade escolar;Capital;Solteiro;10
+03/11/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;25;Superior;Capital;Solteiro;16
+22/10/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reavaliação pós-consulta;Equipe Coluna;F;72;Ensino Fundamental;Capital;Viúvo;16
+20/08/2021;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;50;Ensino Fundamental;Região Metropolitana;sem união estável;15
+27/09/2018;1;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;44;Ensino Médio;Capital;Casado;15
+25/07/2022;0;1_Segunda-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;56;Ensino Fundamental;Capital;Solteiro;15
+11/06/2021;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 4;F;1;Fora de idade escolar;Interior;Solteiro;7
+03/07/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;M;54;Superior;Interior;Casado;10
+23/03/2021;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;M;60;Ensino Médio;Capital;Casado;14
+26/04/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;M;76;Ensino Fundamental;Interior;Viúvo;10
+31/08/2021;1;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;M;58;Ensino Médio;Capital;sem união estável;14
+29/01/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;12;Ensino Fundamental;Interior;Solteiro;10
+13/05/2021;1;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;34;Ensino Fundamental;Interior;Casado;10
+24/11/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;38;Ensino Fundamental;Capital;Casado;9
+20/10/2021;0;3_Quarta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;11;Fora de idade escolar;Interior;Solteiro;15
+30/06/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;61;Ensino Fundamental;Capital;Casado;9
+01/03/2021;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;4;iletrado;Região Metropolitana;Solteiro;13
+26/10/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;29;Ensino Médio;Capital;Casado;8
+30/08/2018;0;4_Quinta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;F;2;Fora de idade escolar;Interior;Solteiro;13
+13/05/2022;0;5_Sexta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Pós-alta;F;79;iletrado;Capital;sem união estável;15
+13/01/2022;0;4_Quinta-Feira;Manhã;Não presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;F;49;Ensino Médio;Interior;Solteiro;8
+20/12/2021;1;1_Segunda-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;45;Superior;Capital;Solteiro;14
+03/12/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;37;Ensino Médio;Região Metropolitana;Casado;9
+29/07/2020;0;3_Quarta-Feira;Manhã;Não presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;M;1;Fora de idade escolar;Interior;Solteiro;9
+07/02/2022;1;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;5;Ensino Fundamental;Região Metropolitana;Solteiro;9
+18/06/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;35;Superior;Capital;Casado;17
+26/08/2022;0;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;M;16;Fora de idade escolar;Capital;Solteiro;10
+11/10/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;70;Ensino Médio;Capital;sem união estável;16
+15/05/2020;0;5_Sexta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;F;13;Ensino Fundamental;Capital;Solteiro;9
+02/08/2022;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;60;Ensino Fundamental;Capital;Casado;16
+15/09/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;F;20;Ensino Fundamental;Outros estados;Sem informação;14
+08/04/2022;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;2;Fora de idade escolar;Interior;Solteiro;10
+02/10/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;37;Superior;Capital;Casado;16
+01/10/2020;0;4_Quinta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;51;Ensino Médio;Capital;Casado;14
+18/06/2021;1;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;10;Fora de idade escolar;Capital;Solteiro;10
+08/11/2021;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Avaliação Vesical ;Equipe Reab. Infantil 4;F;14;Ensino Fundamental;Capital;Solteiro;9
+20/11/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;26;Ensino Médio;Interior;Solteiro;9
+03/01/2020;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;19;Ensino Fundamental;Capital;Solteiro;10
+08/10/2021;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;M;43;Ensino Fundamental;Capital;Solteiro;16
+11/01/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Integrado - PP;M;9;Ensino Fundamental;Região Metropolitana;Solteiro;14
+11/05/2022;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;1;Fora de idade escolar;Interior;Solteiro;9
+13/09/2018;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Dra. Luciana;F;52;Ensino Fundamental;Capital;Casado;13
+31/01/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pós-alta;F;28;Ensino Médio;Região Metropolitana;Solteiro;15
+09/03/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;44;Ensino Médio;Região Metropolitana;Solteiro;9
+31/05/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pós-alta;M;43;Superior;Capital;Casado;14
+30/05/2022;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;57;Ensino Fundamental;Capital;Casado;9
+11/03/2019;1;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Aula de Orientação;Equipe Reab. Infantil 3;F;3;Fora de idade escolar;Capital;Solteiro;9
+15/10/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;65;Ensino Fundamental;Capital;Casado;17
+05/01/2022;0;3_Quarta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;F;61;Ensino Fundamental;Capital;Casado;16
+03/05/2021;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;M;71;Ensino Médio;Capital;Casado;9
+20/08/2021;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;12;Fora de idade escolar;Interior;Solteiro;15
+25/08/2021;0;3_Quarta-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;36;Ensino Médio;Região Metropolitana;Casado;15
+13/12/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;M;58;Ensino Fundamental;Região Metropolitana;Casado;10
+15/04/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;37;Ensino Médio;Interior;Solteiro;16
+16/05/2019;1;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria - RVI;F;9;Fora de idade escolar;Interior;Solteiro;9
+25/09/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;M;5;Fora de idade escolar;Região Metropolitana;Solteiro;13
+10/02/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;42;Ensino Fundamental;Região Metropolitana;Casado;16
+04/04/2022;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;50;iletrado;Outros estados;Sem informação;9
+04/11/2020;0;3_Quarta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;67;Superior;Capital;Solteiro;15
+20/05/2020;0;3_Quarta-Feira;Manhã;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;34;Superior;Interior;Solteiro;11
+20/05/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;62;Ensino Médio;Capital;Casado;16
+08/05/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;44;Superior;Interior;Casado;15
+11/03/2022;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;F;55;Ensino Médio;Capital;Casado;10
+21/01/2021;0;4_Quinta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa Intensivo;Equipe Reab. Infantil 3;M;9;Ensino Fundamental;Região Metropolitana;Solteiro;8
+03/12/2020;0;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;47;Ensino Médio;Capital;Casado;16
+08/01/2020;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;88;iletrado;Região Metropolitana;Viúvo;16
+24/10/2018;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;69;Ensino Médio;Capital;sem união estável;11
+30/12/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Dra. Luciana - Prioridades;M;44;Ensino Médio;Região Metropolitana;Solteiro;13
+11/09/2018;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;51;Ensino Fundamental;Região Metropolitana;Casado;16
+24/07/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;M;57;Ensino Médio;Capital;Casado;14
+01/09/2021;1;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;M;13;Ensino Fundamental;Capital;Solteiro;8
+08/02/2021;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;56;Ensino Médio;Capital;Casado;16
+26/11/2021;0;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;F;15;Ensino Fundamental;Outros estados;Solteiro;9
+29/10/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Integrado - TF;F;1;Fora de idade escolar;Interior;Solteiro;16
+29/05/2020;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;M;60;Superior;Capital;Casado;13
+31/05/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;M;53;iletrado;Interior;sem união estável;11
+05/06/2020;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;81;Ensino Fundamental;Capital;Viúvo;12
+09/11/2018;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;11;Fora de idade escolar;Região Metropolitana;Solteiro;8
+30/06/2020;0;2_Terça-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;F;54;Ensino Fundamental;Interior;Casado;16
+10/02/2022;0;4_Quinta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 1;F;36;Ensino Médio;Capital;Solteiro;10
+18/10/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;40;Superior;Capital;Casado;14
+28/09/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - RVI;F;21;Ensino Fundamental;Capital;Solteiro;17
+26/07/2021;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;F;40;Superior;Capital;Solteiro;13
+12/06/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;56;Ensino Fundamental;Capital;Casado;11
+10/05/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;F;53;Ensino Médio;Região Metropolitana;Casado;10
+12/12/2018;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa de Neurodesenvolvimento;Equipe Reab. Infantil 4;F;2;Fora de idade escolar;Capital;Solteiro;8
+18/05/2021;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;F;50;Ensino Fundamental;Capital;Solteiro;17
+17/09/2021;0;5_Sexta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;5;Fora de idade escolar;Capital;Solteiro;14
+17/10/2018;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;4;Fora de idade escolar;Outros estados;Solteiro;13
+29/05/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;42;Superior;Capital;sem união estável;15
+13/10/2020;0;2_Terça-Feira;Tarde;Não presencial;;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;M;44;Ensino Fundamental;Interior;Casado;15
+18/07/2022;1;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe Interprogramas - Pré-internação;M;36;Ensino Médio;Capital;Solteiro;14
+07/04/2022;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;22;Ensino Fundamental;Região Metropolitana;Solteiro;10
+11/04/2022;0;1_Segunda-Feira;Manhã;Não presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;72;Ensino Fundamental;Capital;Solteiro;12
+12/04/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;57;iletrado;Capital;Casado;9
+22/10/2020;0;4_Quinta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;37;Ensino Médio;Região Metropolitana;Casado;9
+30/12/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;13;Fora de idade escolar;Capital;Solteiro;13
+11/02/2021;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;6;Fora de idade escolar;Interior;Solteiro;10
+09/01/2019;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa de Neurodesenvolvimento;Equipe Reab. Infantil 4;F;2;Fora de idade escolar;Região Metropolitana;Solteiro;8
+05/01/2022;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;53;Ensino Médio;Interior;sem união estável;10
+03/06/2020;0;3_Quarta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;65;Ensino Médio;Outros estados;Casado;17
+14/04/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;52;Ensino Médio;Capital;Casado;16
+02/01/2019;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa de Neurodesenvolvimento;Equipe Reab. Infantil 4;M;1;Fora de idade escolar;Capital;Solteiro;8
+22/07/2021;0;4_Quinta-Feira;Manhã;Não presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;2;Fora de idade escolar;Capital;Solteiro;10
+29/05/2020;1;5_Sexta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;M;15;Fora de idade escolar;Capital;Solteiro;11
+18/09/2018;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interprogramas - Pré-internação;M;70;Superior;Capital;Casado;8
+08/04/2019;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;F;17;Ensino Fundamental;Outros estados;Solteiro;7
+30/03/2022;0;3_Quarta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 2;M;39;Ensino Médio;Outros estados;Solteiro;17
+03/12/2019;0;2_Terça-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;9;Fora de idade escolar;Capital;Solteiro;16
+12/06/2020;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;4;Fora de idade escolar;Interior;Solteiro;16
+22/10/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;2;Fora de idade escolar;Interior;Solteiro;8
+18/06/2021;1;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;M;1;Fora de idade escolar;Região Metropolitana;Solteiro;7
+19/07/2022;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;41;Ensino Médio;Outros estados;Casado;11
+05/02/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;66;Ensino Fundamental;Região Metropolitana;Casado;10
+21/05/2021;0;5_Sexta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;F;61;Ensino Fundamental;Capital;Casado;17
+29/06/2022;1;3_Quarta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Socialização;Equipe Reabilitação Infantil;M;1;Fora de idade escolar;Capital;Solteiro;9
+09/11/2021;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;28;Superior;Outros estados;Solteiro;16
+26/06/2020;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;38;Ensino Fundamental;Capital;Casado;17
+07/06/2021;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;20;Ensino Médio;Interior;Solteiro;15
+18/05/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;25;Ensino Médio;Capital;Casado;9
+24/11/2021;0;3_Quarta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;M;12;Ensino Fundamental;Interior;Solteiro;8
+31/08/2022;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;64;Ensino Fundamental;Capital;sem união estável;11
+04/09/2020;1;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;57;Ensino Médio;Capital;sem união estável;10
+29/10/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;51;Ensino Fundamental;Interior;Casado;17
+13/10/2020;0;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;65;Fora de idade escolar;Capital;sem união estável;8
+19/01/2022;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;39;Ensino Médio;Interior;Casado;8
+17/12/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe Interprogramas - Pré-internação;F;32;Superior;Capital;Solteiro;9
+11/03/2022;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;28;Ensino Médio;Capital;Solteiro;11
+17/09/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;54;Ensino Fundamental;Região Metropolitana;Solteiro;11
+29/04/2022;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;M;70;Ensino Fundamental;Capital;Casado;8
+22/02/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;63;Ensino Médio;Interior;Casado;11
+12/03/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;5;Fora de idade escolar;Capital;Solteiro;16
+06/02/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;4;Ensino Fundamental;Capital;Solteiro;17
+18/09/2019;1;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;F;9;Ensino Fundamental;Capital;Solteiro;14
+05/04/2021;0;1_Segunda-Feira;Manhã;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;F;7;Ensino Fundamental;Interior;Solteiro;10
+23/01/2019;1;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Avaliação Vesical ;Equipe Reab. Infantil 4;F;5;Ensino Fundamental;Região Metropolitana;Solteiro;16
+01/03/2021;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;63;Ensino Fundamental;Capital;Casado;16
+19/07/2022;0;2_Terça-Feira;Manhã;Não presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;M;63;Superior;Capital;Casado;9
+03/02/2022;0;4_Quinta-Feira;Manhã;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;F;0;Fora de idade escolar;Interior;Solteiro;12
+30/04/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;18;Ensino Fundamental;Interior;Solteiro;15
+09/06/2020;0;2_Terça-Feira;Tarde;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - RVI;F;7;Fora de idade escolar;Interior;Solteiro;15
+26/11/2021;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;M;41;Ensino Fundamental;Interior;Solteiro;9
+01/12/2020;1;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;35;Ensino Médio;Interior;Solteiro;10
+18/07/2019;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;70;Superior;Capital;Casado;17
+20/05/2020;0;3_Quarta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 1;M;13;Ensino Fundamental;Outros estados;Solteiro;9
+10/02/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;F;53;Ensino Médio;Interior;Solteiro;15
+30/10/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;52;iletrado;Capital;Solteiro;16
+27/09/2018;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;71;iletrado;Capital;Casado;16
+26/08/2022;0;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - RVI;F;14;Fora de idade escolar;Interior;Solteiro;9
+02/09/2021;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;52;Ensino Fundamental;Capital;Solteiro;9
+05/07/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;31;Ensino Médio;Capital;Solteiro;11
+22/05/2020;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;F;78;Ensino Médio;Região Metropolitana;Casado;15
+12/01/2021;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;4;Fora de idade escolar;Capital;Solteiro;16
+04/06/2021;0;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;5;Fora de idade escolar;Região Metropolitana;Solteiro;11
+23/03/2022;0;3_Quarta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Pediatria;Atend. Específico;F;6;Ensino Fundamental;Interior;Solteiro;13
+12/11/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;66;Superior;Capital;Casado;10
+13/11/2018;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;80;iletrado;Capital;Casado;10
+24/08/2018;0;5_Sexta-Feira;Tarde;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;13;Fora de idade escolar;Capital;Solteiro;14
+05/04/2021;0;1_Segunda-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica;Equipe RN - RVI;F;61;Ensino Médio;Outros estados;Casado;15
+28/07/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;46;Ensino Médio;Capital;Casado;16
+13/01/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;F;34;Ensino Médio;Outros estados;Casado;15
+25/08/2021;1;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;4;Fora de idade escolar;Interior;Solteiro;8
+20/09/2018;0;4_Quinta-Feira;Tarde;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 4;F;9;Ensino Fundamental;Capital;Solteiro;14
+10/11/2021;0;3_Quarta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;62;Ensino Fundamental;Capital;sem união estável;10
+11/03/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe Interprogramas - Pré-internação;M;54;Fora de idade escolar;Capital;Casado;9
+06/11/2020;1;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame;F;8;Ensino Médio;Região Metropolitana;Solteiro;9
+14/01/2022;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;53;Ensino Fundamental;Capital;Casado;8
+09/04/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;M;75;Superior;Capital;Casado;9
+09/09/2020;1;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;M;10;Fora de idade escolar;Capital;Solteiro;9
+17/05/2021;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;10;Ensino Fundamental;Interior;Solteiro;9
+31/05/2022;0;2_Terça-Feira;Tarde;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 1;M;12;Ensino Fundamental;Interior;Solteiro;14
+06/05/2021;0;4_Quinta-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;M;2;Fora de idade escolar;Interior;Solteiro;9
+04/12/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;20;Ensino Fundamental;Interior;Solteiro;9
+14/08/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;49;Ensino Fundamental;Interior;Casado;17
+16/01/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;11;Fora de idade escolar;Região Metropolitana;Solteiro;14
+09/07/2021;1;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;F;20;Ensino Fundamental;Capital;Sem informação;14
+26/08/2021;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;M;26;Ensino Fundamental;Região Metropolitana;Solteiro;11
+24/12/2020;0;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;50;Ensino Médio;Capital;Casado;17
+04/02/2021;0;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;73;iletrado;Região Metropolitana;Casado;15
+12/05/2021;0;3_Quarta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Pediatria;Atend. Específico;M;10;Ensino Fundamental;Capital;Solteiro;14
+24/12/2021;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;F;56;Ensino Médio;Capital;sem união estável;8
+18/03/2021;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;53;Ensino Fundamental;Capital;Casado;17
+30/04/2019;0;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 1;M;10;Ensino Fundamental;Interior;Solteiro;10
+06/09/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;80;Ensino Médio;Capital;Sem informação;16
+31/01/2022;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;28;Ensino Médio;Região Metropolitana;Solteiro;8
+14/01/2019;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;5;Ensino Fundamental;Outros estados;Solteiro;11
+05/12/2018;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;22;iletrado;Capital;Solteiro;10
+16/07/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;46;Superior;Capital;Casado;16
+05/10/2018;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pós-alta;M;20;Ensino Médio;Região Metropolitana;Solteiro;11
+26/02/2020;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;50;Ensino Médio;Outros estados;Casado;15
+24/02/2021;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;M;75;Ensino Fundamental;Capital;Casado;8
+06/01/2022;0;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;44;Ensino Fundamental;Capital;Solteiro;17
+29/09/2020;0;2_Terça-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;M;41;Ensino Médio;Região Metropolitana;Casado;17
+10/10/2018;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;64;Ensino Médio;Capital;sem união estável;11
+24/05/2022;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;63;Ensino Fundamental;Interior;Solteiro;17
+11/01/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pós-alta;M;48;iletrado;Outros estados;Solteiro;8
+14/12/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;36;Ensino Médio;Capital;Casado;16
+09/11/2021;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;24;Superior;Capital;Solteiro;11
+18/02/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;64;Ensino Fundamental;Capital;sem união estável;11
+08/04/2022;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Atendimento Integrado;Equipe Reab. Infantil 3;M;1;Fora de idade escolar;Região Metropolitana;Solteiro;10
+02/02/2021;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;38;Ensino Médio;Capital;Casado;16
+27/08/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;58;Ensino Médio;Capital;sem união estável;17
+16/10/2020;1;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;4;Fora de idade escolar;Capital;Solteiro;9
+06/05/2022;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;42;Ensino Fundamental;Interior;Solteiro;10
+28/06/2021;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;M;64;Ensino Fundamental;Capital;Casado;15
+25/06/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;60;Ensino Fundamental;Capital;Casado;15
+12/02/2019;1;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Aula de Orientação;Equipe Reab. Infantil 2;F;15;Ensino Fundamental;Capital;Solteiro;10
+20/07/2021;0;2_Terça-Feira;Tarde;Não presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;0;Fora de idade escolar;Outros estados;Solteiro;16
+18/03/2022;0;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 1;M;16;Fora de idade escolar;Interior;Solteiro;7
+30/07/2021;0;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;M;1;Fora de idade escolar;Capital;Solteiro;11
+04/09/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;54;Superior;Capital;Casado;16
+20/02/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;74;Ensino Fundamental;Capital;Casado;17
+31/07/2020;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;74;Superior;Capital;Casado;16
+25/05/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - RVI;M;57;Ensino Fundamental;Capital;sem união estável;15
+14/02/2019;0;4_Quinta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;2;Fora de idade escolar;Capital;Solteiro;13
+19/02/2021;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;74;Superior;Capital;sem união estável;11
+07/01/2021;0;4_Quinta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;32;Ensino Médio;Região Metropolitana;Casado;17
+26/05/2020;1;2_Terça-Feira;Tarde;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;48;Ensino Fundamental;Interior;Casado;12
+04/12/2018;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pós-alta;F;80;Ensino Fundamental;Região Metropolitana;Viúvo;8
+29/09/2020;0;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;38;Ensino Fundamental;Outros estados;Solteiro;10
+12/08/2020;0;3_Quarta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;F;4;Fora de idade escolar;Região Metropolitana;Solteiro;8
+21/08/2020;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;56;Ensino Fundamental;Interior;Casado;15
+02/01/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;F;21;Superior;Capital;Solteiro;11
+05/12/2018;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;M;3;Fora de idade escolar;Interior;Solteiro;13
+18/07/2022;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;F;76;Ensino Fundamental;Capital;Solteiro;17
+03/12/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;5;Fora de idade escolar;Interior;Solteiro;10
+26/02/2021;0;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;2;Fora de idade escolar;Região Metropolitana;Solteiro;11
+04/10/2021;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;73;Ensino Médio;Capital;Casado;11
+03/02/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;52;Ensino Fundamental;Capital;Casado;16
+05/12/2020;0;6_Sábado;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;21;Ensino Médio;Capital;Solteiro;11
+11/07/2022;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 2;F;75;Ensino Médio;Capital;Solteiro;14
+11/01/2021;0;1_Segunda-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;62;Ensino Fundamental;Capital;Casado;17
+27/03/2020;0;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;M;62;Ensino Médio;Capital;Casado;10
+09/09/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;M;61;Ensino Fundamental;Capital;Solteiro;9
+20/07/2021;0;2_Terça-Feira;Manhã;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;M;9;Fora de idade escolar;Interior;Solteiro;10
+20/02/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;51;Superior;Interior;sem união estável;16
+05/02/2021;0;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;M;2;Fora de idade escolar;Interior;Solteiro;10
+05/11/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;4;Fora de idade escolar;Interior;Solteiro;13
+06/12/2019;1;5_Sexta-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;F;7;Ensino Fundamental;Interior;Solteiro;11
+27/05/2019;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;2;Fora de idade escolar;Capital;Solteiro;11
+11/09/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;34;Ensino Médio;Região Metropolitana;Solteiro;10
+06/12/2018;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;53;Ensino Médio;Interior;Solteiro;11
+14/04/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;48;Ensino Fundamental;Região Metropolitana;sem união estável;13
+14/01/2019;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;74;Ensino Fundamental;Outros estados;sem união estável;10
+24/05/2021;0;1_Segunda-Feira;Manhã;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;38;Ensino Médio;Capital;Casado;11
+27/10/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;M;15;Ensino Fundamental;Interior;Solteiro;14
+01/08/2022;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;F;83;iletrado;Região Metropolitana;Viúvo;9
+27/06/2022;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;11;Ensino Fundamental;Interior;Solteiro;11
+28/06/2019;0;5_Sexta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa Intensivo;Equipe Reab. Infantil 1;F;12;Fora de idade escolar;Região Metropolitana;Solteiro;10
+22/12/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;59;Ensino Médio;Região Metropolitana;Solteiro;16
+17/07/2020;0;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;57;Ensino Fundamental;Capital;Viúvo;10
+06/01/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;30;Ensino Fundamental;Outros estados;Solteiro;16
+11/03/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;63;Ensino Fundamental;Capital;Casado;11
+09/11/2018;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;F;43;Ensino Fundamental;Capital;Casado;10
+23/06/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Integrado - TF;M;5;Fora de idade escolar;Capital;Solteiro;14
+02/09/2021;0;4_Quinta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;37;Superior;Capital;Casado;15
+12/04/2022;0;2_Terça-Feira;Tarde;Não presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;18;Ensino Fundamental;Capital;Solteiro;17
+27/07/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;24;Ensino Médio;Capital;Solteiro;9
+20/11/2020;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;50;Ensino Médio;Capital;Casado;16
+28/09/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;7;Fora de idade escolar;Interior;Solteiro;10
+21/02/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;22;Ensino Médio;Capital;Solteiro;8
+21/01/2022;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;6;Fora de idade escolar;Interior;Solteiro;14
+03/06/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;61;Ensino Fundamental;Capital;Casado;17
+26/11/2021;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame;M;10;Fora de idade escolar;Capital;Solteiro;8
+07/05/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;M;61;Ensino Fundamental;Interior;Casado;10
+18/12/2018;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;56;Ensino Médio;Capital;Viúvo;15
+22/08/2022;0;1_Segunda-Feira;Manhã;Não presencial;Confirmada;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 4;M;4;Fora de idade escolar;Região Metropolitana;Solteiro;7
+01/09/2020;1;2_Terça-Feira;Manhã;Não presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;4;Fora de idade escolar;Interior;Solteiro;9
+25/02/2022;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;33;Ensino Fundamental;Região Metropolitana;Casado;9
+17/12/2021;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;36;Ensino Fundamental;Capital;Casado;16
+14/04/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;24;Ensino Fundamental;Capital;Solteiro;16
+16/03/2021;0;2_Terça-Feira;Manhã;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;7;Ensino Fundamental;Capital;Solteiro;8
+22/06/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;7;Ensino Fundamental;Capital;Solteiro;8
+20/04/2022;1;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;6;Fora de idade escolar;Capital;Solteiro;16
+11/06/2020;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;51;Ensino Fundamental;Capital;Viúvo;11
+05/11/2021;0;5_Sexta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;F;50;Superior;Interior;sem união estável;16
+07/12/2018;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;30;Ensino Fundamental;Capital;Solteiro;10
+07/12/2021;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;F;25;Superior;Interior;Solteiro;14
+30/11/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;F;44;Ensino Médio;Região Metropolitana;Solteiro;8
+23/02/2021;1;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;F;35;Superior;Capital;Solteiro;8
+17/10/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;73;Fora de idade escolar;Capital;Solteiro;9
+26/08/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;22;Fora de idade escolar;Capital;Solteiro;11
+26/02/2021;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;75;Ensino Fundamental;Região Metropolitana;Viúvo;16
+25/10/2018;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Integrado - PP;M;2;Fora de idade escolar;Região Metropolitana;Solteiro;15
+10/05/2022;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;4;iletrado;Interior;Solteiro;9
+30/03/2022;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;64;Superior;Capital;sem união estável;10
+25/10/2018;0;4_Quinta-Feira;Tarde;Presencial;;Reabilitação Infantil;Aula de Orientação;Equipe Reab. Infantil 1;M;10;Fora de idade escolar;Capital;Solteiro;13
+01/03/2021;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;M;3;Fora de idade escolar;Capital;Solteiro;7
+09/08/2018;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-exame;M;30;Ensino Fundamental;Capital;Solteiro;16
+24/05/2022;0;2_Terça-Feira;Manhã;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;73;Ensino Médio;Capital;Casado;11
+31/10/2018;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;11;Ensino Fundamental;Interior;Solteiro;14
+15/07/2020;1;3_Quarta-Feira;Tarde;Não presencial;;Ambulatório;Pediatria;Atend. Específico;M;17;Ensino Fundamental;Capital;Solteiro;15
+22/11/2018;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;19;Superior;Capital;Solteiro;9
+15/10/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;85;Ensino Fundamental;Região Metropolitana;Viúvo;16
+27/08/2020;0;4_Quinta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;31;Ensino Médio;Capital;Casado;9
+29/01/2020;1;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;60;Superior;Capital;Casado;14
+07/04/2021;0;3_Quarta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;3;Fora de idade escolar;Região Metropolitana;Solteiro;10
+02/10/2018;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;61;Ensino Médio;Região Metropolitana;Solteiro;11
+26/01/2022;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;M;36;Superior;Capital;Casado;8
+07/07/2020;0;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;43;Ensino Médio;Capital;Solteiro;10
+17/04/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Dra. Luciana;F;17;Ensino Médio;Capital;Solteiro;15
+12/02/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;10;Ensino Fundamental;Capital;Solteiro;8
+10/11/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;28;Ensino Fundamental;Capital;Solteiro;10
+26/07/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;28;Ensino Médio;Capital;Solteiro;16
+24/04/2020;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;M;47;Ensino Médio;Capital;Solteiro;10
+18/08/2021;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;1;Fora de idade escolar;Capital;Solteiro;10
+22/08/2018;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;43;Ensino Fundamental;Interior;Solteiro;10
+21/02/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;67;Ensino Médio;Capital;Casado;16
+18/11/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;10;Fora de idade escolar;Outros estados;Solteiro;9
+30/09/2021;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;M;56;Ensino Médio;Capital;Solteiro;8
+12/03/2021;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;M;33;Ensino Médio;Outros estados;Solteiro;14
+03/01/2022;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;54;iletrado;Capital;Casado;8
+04/11/2021;0;4_Quinta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;23;Ensino Médio;Outros estados;Solteiro;14
+15/10/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;36;Superior;Capital;Casado;8
+11/08/2020;1;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;54;Ensino Fundamental;Interior;Solteiro;9
+22/07/2021;0;4_Quinta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 2;M;52;Ensino Fundamental;Região Metropolitana;Casado;10
+08/06/2020;1;1_Segunda-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;F;43;Ensino Médio;Região Metropolitana;Casado;10
+27/05/2022;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;F;67;Ensino Fundamental;Região Metropolitana;Casado;11
+01/06/2020;1;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;F;21;Ensino Médio;Região Metropolitana;Solteiro;10
+05/11/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;12;Fora de idade escolar;Região Metropolitana;Solteiro;14
+17/03/2021;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;42;Ensino Médio;Capital;Casado;11
+31/03/2020;1;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;M;5;iletrado;Capital;Solteiro;11
+18/04/2022;0;1_Segunda-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;26;Ensino Fundamental;Capital;Solteiro;16
+14/06/2022;0;2_Terça-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;F;4;Fora de idade escolar;Interior;Solteiro;14
+13/09/2018;0;4_Quinta-Feira;Tarde;Presencial;;Reabilitação Infantil;Socialização;Equipe Reabilitação Infantil;F;15;Fora de idade escolar;Região Metropolitana;Solteiro;14
+15/03/2022;0;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;F;36;Ensino Médio;Capital;Solteiro;9
+16/05/2019;1;4_Quinta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa Intensivo;Equipe Reab. Infantil 1;M;2;Fora de idade escolar;Região Metropolitana;Solteiro;8
+26/10/2021;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;26;Superior;Capital;Solteiro;16
+04/07/2019;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Integrado - PP;M;8;Ensino Fundamental;Outros estados;Solteiro;16
+15/07/2022;1;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;14;iletrado;Capital;Solteiro;11
+18/03/2021;0;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;75;Ensino Médio;Capital;Casado;16
+07/01/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;62;Ensino Médio;Capital;Solteiro;11
+08/07/2019;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Aula de Orientação;Equipe Reab. Infantil 2;M;7;Ensino Fundamental;Capital;Solteiro;9
+11/05/2020;0;1_Segunda-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;45;Superior;Capital;Solteiro;16
+31/08/2018;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;43;Ensino Médio;Capital;sem união estável;16
+10/05/2022;0;2_Terça-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;F;14;Ensino Fundamental;Interior;Solteiro;8
+23/01/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;F;42;Ensino Médio;Capital;Casado;9
+11/07/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;73;iletrado;Região Metropolitana;Casado;9
+11/09/2018;0;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Socialização;Equipe Reabilitação Infantil;M;17;Ensino Fundamental;Capital;Solteiro;8
+17/11/2020;0;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;F;13;Ensino Fundamental;Capital;Solteiro;7
+21/10/2020;0;3_Quarta-Feira;Noite;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;76;iletrado;Capital;Casado;19
+22/07/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;31;Superior;Capital;Solteiro;11
+18/08/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;63;iletrado;Capital;Solteiro;10
+23/11/2021;0;2_Terça-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Programa Intensivo;Equipe Reab. Infantil 2;M;0;Fora de idade escolar;Região Metropolitana;Solteiro;9
+29/06/2022;0;3_Quarta-Feira;Tarde;Não presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;41;Ensino Fundamental;Capital;Solteiro;16
+18/07/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;M;45;Superior;Capital;Solteiro;8
+24/09/2019;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;80;Ensino Fundamental;Capital;Casado;17
+27/06/2022;0;1_Segunda-Feira;Manhã;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;F;5;Fora de idade escolar;Capital;Solteiro;7
+14/10/2019;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM;M;42;Ensino Fundamental;Capital;Solteiro;17
+11/08/2021;0;3_Quarta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;27;Superior;Capital;Solteiro;16
+31/10/2019;1;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;57;Ensino Médio;Capital;Solteiro;17
+25/05/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;4;Fora de idade escolar;Capital;Solteiro;11
+10/10/2018;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;20;Ensino Médio;Região Metropolitana;Solteiro;10
+26/06/2020;0;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;42;Ensino Fundamental;Capital;Casado;8
+18/01/2022;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;M;36;Ensino Médio;Região Metropolitana;Solteiro;14
+11/02/2021;0;4_Quinta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;61;Ensino Médio;Capital;Casado;17
+21/03/2022;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;73;iletrado;Capital;Viúvo;9
+02/02/2021;1;2_Terça-Feira;Manhã;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;20;Ensino Fundamental;Interior;Solteiro;11
+04/11/2021;0;4_Quinta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;M;5;Fora de idade escolar;Região Metropolitana;Solteiro;10
+24/02/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;M;64;Ensino Fundamental;Capital;Casado;15
+19/11/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;34;Ensino Fundamental;Interior;Casado;16
+10/08/2021;0;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;28;Ensino Médio;Capital;Casado;8
+19/06/2020;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;11;Ensino Fundamental;Interior;Solteiro;16
+27/11/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;25;Ensino Médio;Região Metropolitana;Casado;9
+31/07/2019;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa de Neurodesenvolvimento;Equipe Reab. Infantil 1;F;0;Fora de idade escolar;Capital;Solteiro;8
+18/10/2019;1;5_Sexta-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;3;Fora de idade escolar;Região Metropolitana;Solteiro;11
+11/06/2019;0;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;4;Fora de idade escolar;Capital;Solteiro;9
+07/11/2018;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;50;Ensino Médio;Interior;Solteiro;16
+06/09/2021;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;74;Ensino Fundamental;Capital;Casado;16
+29/06/2020;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;M;3;Fora de idade escolar;Capital;Solteiro;11
+08/06/2020;0;1_Segunda-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;8;Fora de idade escolar;Interior;Solteiro;15
+02/12/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;11;Fora de idade escolar;Capital;Solteiro;16
+29/01/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;64;Ensino Médio;Capital;Casado;11
+08/08/2020;0;6_Sábado;Manhã;Não presencial;;Ambulatório;Pediatria;Atend. Específico;F;5;Fora de idade escolar;Outros estados;Solteiro;11
+05/11/2020;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;7;Fora de idade escolar;Interior;Solteiro;10
+29/03/2022;0;2_Terça-Feira;Manhã;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;F;6;Ensino Fundamental;Interior;Solteiro;7
+22/12/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;47;Ensino Fundamental;Capital;Casado;17
+24/07/2019;1;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;3;Fora de idade escolar;Capital;Solteiro;10
+24/02/2021;0;3_Quarta-Feira;Tarde;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;M;11;Ensino Fundamental;Interior;Solteiro;12
+01/11/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;F;65;Ensino Médio;Região Metropolitana;Casado;9
+26/03/2021;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;F;46;Ensino Fundamental;Capital;Casado;9
+20/04/2021;0;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;65;Ensino Fundamental;Capital;Solteiro;10
+08/02/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;54;Ensino Fundamental;Capital;Casado;14
+06/05/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;F;48;Ensino Fundamental;Interior;Solteiro;10
+07/07/2020;0;2_Terça-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;4;Ensino Fundamental;Região Metropolitana;Solteiro;15
+27/07/2021;0;2_Terça-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;2;Fora de idade escolar;Interior;Solteiro;10
+24/04/2020;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;85;Ensino Médio;Capital;Casado;12
+03/09/2021;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pós-alta;M;34;Ensino Fundamental;Interior;Casado;14
+25/09/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pós-alta;M;29;Ensino Fundamental;Capital;Solteiro;14
+08/08/2019;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;22;Superior;Capital;Solteiro;16
+04/09/2020;1;5_Sexta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Pediatria;Atend. Integrado - PP;F;3;Fora de idade escolar;Outros estados;Solteiro;14
+27/08/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;24;iletrado;Capital;Solteiro;15
+15/09/2021;0;3_Quarta-Feira;Tarde;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;M;1;Fora de idade escolar;Região Metropolitana;Solteiro;13
+21/07/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;78;iletrado;Capital;Casado;11
+25/05/2021;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria - RVI;F;10;Ensino Fundamental;Interior;Solteiro;15
+16/01/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;77;Ensino Fundamental;Capital;sem união estável;16
+16/01/2019;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;M;4;Fora de idade escolar;Interior;Solteiro;10
+22/02/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;51;Ensino Fundamental;Interior;Solteiro;9
+15/05/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;57;Ensino Médio;Capital;Casado;17
+18/08/2021;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;1;Fora de idade escolar;Interior;Solteiro;9
+26/02/2021;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;F;22;Superior;Interior;Casado;9
+09/06/2020;1;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;M;4;Fora de idade escolar;Capital;Solteiro;8
+12/01/2021;0;2_Terça-Feira;Manhã;Não presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;M;68;Ensino Médio;Outros estados;Casado;9
+29/07/2019;1;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;53;Ensino Fundamental;Capital;Solteiro;9
+16/06/2020;0;2_Terça-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;43;Superior;Capital;Casado;15
+14/07/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;F;6;Fora de idade escolar;Outros estados;Solteiro;15
+30/08/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;5;Fora de idade escolar;Região Metropolitana;Solteiro;10
+22/06/2020;1;1_Segunda-Feira;Manhã;Não presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;56;Superior;Região Metropolitana;Casado;11
+21/08/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;47;Ensino Fundamental;Interior;Casado;10
+02/12/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;31;Ensino Médio;Capital;Solteiro;14
+01/09/2021;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;62;Ensino Fundamental;Capital;Solteiro;10
+07/08/2018;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;1;Ensino Médio;Interior;Solteiro;15
+10/08/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;52;iletrado;Capital;Solteiro;9
+16/08/2021;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;6;Fora de idade escolar;Capital;Solteiro;16
+21/05/2020;0;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Lesão Medular;Equipe LM;M;45;Ensino Fundamental;Outros estados;Casado;17
+21/08/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;53;iletrado;Interior;Solteiro;10
+22/02/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;52;iletrado;Região Metropolitana;Solteiro;9
+03/08/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;17;Ensino Fundamental;Interior;Solteiro;9
+26/10/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - RVI;M;59;Ensino Médio;Capital;Solteiro;16
+20/01/2020;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;F;1;Fora de idade escolar;Capital;Solteiro;11
+15/07/2021;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;41;Ensino Médio;Região Metropolitana;Solteiro;10
+14/09/2021;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;25;Ensino Fundamental;Capital;Casado;10
+07/08/2018;0;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;M;15;Fora de idade escolar;Capital;Solteiro;10
+21/10/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;16;Ensino Médio;Interior;Solteiro;10
+04/03/2021;1;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;6;Ensino Fundamental;Interior;Solteiro;10
+24/01/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;65;Superior;Região Metropolitana;sem união estável;11
+23/07/2019;0;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;11;Ensino Fundamental;Capital;Solteiro;10
+11/12/2020;0;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;67;Ensino Fundamental;Capital;Viúvo;10
+19/06/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;51;Ensino Médio;Região Metropolitana;Casado;10
+16/07/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;40;Superior;Capital;Solteiro;16
+09/12/2021;0;4_Quinta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;54;Ensino Fundamental;Capital;sem união estável;10
+04/12/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pós-alta;F;60;Ensino Fundamental;Região Metropolitana;Solteiro;14
+29/03/2021;0;1_Segunda-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;6;Fora de idade escolar;Outros estados;Solteiro;8
+31/03/2021;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Avaliação Vesical ;Equipe Reab. Infantil 1;M;3;Fora de idade escolar;Interior;Solteiro;16
+02/01/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;20;Fora de idade escolar;Capital;Solteiro;15
+24/10/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interprogramas - Pré-internação;F;59;Ensino Fundamental;Capital;Casado;8
+18/03/2020;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;1;Fora de idade escolar;Capital;Solteiro;10
+26/09/2018;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;F;9;Ensino Fundamental;Região Metropolitana;Solteiro;14
+12/12/2018;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;55;Ensino Fundamental;Interior;Casado;17
+13/05/2022;0;5_Sexta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;M;10;Fora de idade escolar;Outros estados;Solteiro;7
+04/04/2022;0;1_Segunda-Feira;Tarde;Não presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;M;64;Ensino Médio;Outros estados;Solteiro;14
+24/11/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;27;Ensino Médio;Capital;Casado;17
+15/04/2021;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;70;iletrado;Capital;Casado;11
+29/10/2020;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;27;Ensino Fundamental;Capital;Solteiro;11
+21/09/2021;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 1;F;17;Ensino Médio;Capital;Solteiro;17
+10/08/2021;0;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;54;Ensino Fundamental;Interior;Viúvo;11
+27/07/2022;0;3_Quarta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Pediatria;Atend. Específico;M;8;Ensino Fundamental;Capital;Solteiro;16
+29/06/2020;0;1_Segunda-Feira;Manhã;Não presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;63;Ensino Médio;Capital;sem união estável;11
+07/03/2019;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria - RVI;F;13;Fora de idade escolar;Capital;Solteiro;16
+02/08/2021;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;15;Fora de idade escolar;Região Metropolitana;Solteiro;15
+20/02/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;71;Ensino Fundamental;Região Metropolitana;sem união estável;16
+09/08/2019;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;M;56;Ensino Fundamental;Capital;Solteiro;8
+05/08/2021;0;4_Quinta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;33;Ensino Médio;Interior;Solteiro;16
+03/05/2021;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;M;60;Ensino Médio;Região Metropolitana;Casado;14
+08/11/2018;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;35;Ensino Médio;Região Metropolitana;Solteiro;10
+17/10/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;18;Ensino Fundamental;Capital;Solteiro;10
+17/10/2018;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;48;iletrado;Capital;Solteiro;17
+18/09/2018;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;23;Ensino Fundamental;Capital;Solteiro;16
+28/01/2021;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;M;48;Superior;Região Metropolitana;Solteiro;15
+27/10/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;52;Ensino Médio;Interior;Casado;16
+30/04/2021;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;76;iletrado;Capital;Viúvo;8
+15/07/2020;0;3_Quarta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;34;Superior;Capital;Casado;11
+15/06/2022;0;3_Quarta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;58;Ensino Fundamental;Capital;Solteiro;16
+13/03/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;9;Fora de idade escolar;Capital;Solteiro;15
+05/09/2022;0;1_Segunda-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;F;11;Ensino Fundamental;Capital;Solteiro;16
+29/08/2022;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria - Prioridades;M;7;Fora de idade escolar;Capital;Solteiro;15
+07/07/2021;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;M;0;Fora de idade escolar;Interior;Solteiro;12
+09/01/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;51;Ensino Médio;Capital;Casado;16
+28/06/2022;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;M;44;Ensino Médio;Região Metropolitana;Solteiro;15
+15/09/2020;1;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;F;5;Ensino Fundamental;Interior;Solteiro;12
+03/01/2020;1;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;51;Superior;Capital;Casado;11
+06/08/2020;1;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;F;54;Ensino Fundamental;Interior;Casado;15
+11/06/2020;0;4_Quinta-Feira;Manhã;Não presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 3;F;8;iletrado;Outros estados;Solteiro;9
+29/06/2022;0;3_Quarta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Socialização;Equipe Reabilitação Infantil;M;1;Fora de idade escolar;Capital;Solteiro;9
+14/10/2021;0;4_Quinta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;42;Superior;Capital;Casado;10
+09/04/2021;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 2;F;82;Ensino Fundamental;Capital;Viúvo;16
+10/08/2021;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;54;iletrado;Capital;Solteiro;11
+05/02/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;3;Fora de idade escolar;Região Metropolitana;Solteiro;8
+20/09/2021;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 2;F;56;Ensino Médio;Capital;Solteiro;14
+02/02/2021;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;55;Ensino Fundamental;Interior;Casado;10
+03/04/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;45;Ensino Fundamental;Interior;Casado;8
+21/01/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;F;74;Ensino Médio;Região Metropolitana;Viúvo;9
+03/01/2022;0;1_Segunda-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;85;Ensino Médio;Capital;Casado;16
+27/08/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - RVI;M;43;Ensino Fundamental;Capital;Solteiro;16
+12/07/2021;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Avaliação Vesical ;Equipe Reab. Infantil 3;M;5;Fora de idade escolar;Capital;Solteiro;9
+29/05/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;64;Ensino Médio;Capital;Casado;15
+05/11/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;75;iletrado;Capital;Casado;11
+27/01/2021;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;F;5;Fora de idade escolar;Região Metropolitana;Solteiro;10
+13/07/2020;0;1_Segunda-Feira;Manhã;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;45;Ensino Fundamental;Capital;Casado;10
+28/10/2020;1;3_Quarta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Pediatria;Atend. Específico;F;6;Fora de idade escolar;Outros estados;Solteiro;15
+18/05/2020;0;1_Segunda-Feira;Manhã;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;M;3;Ensino Médio;Interior;Solteiro;8
+26/06/2020;1;5_Sexta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;M;11;Fora de idade escolar;Outros estados;Solteiro;10
+28/06/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;73;Ensino Fundamental;Interior;sem união estável;14
+02/01/2020;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interprogramas - Pré-internação;F;32;Ensino Médio;Capital;Solteiro;10
+27/02/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;31;Ensino Médio;Capital;Solteiro;10
+22/01/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;56;Ensino Médio;Capital;sem união estável;17
+13/05/2022;0;5_Sexta-Feira;Manhã;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;45;Ensino Fundamental;Interior;União Estável;9
+06/08/2021;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;69;Ensino Médio;Capital;Casado;9
+01/11/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;M;72;Ensino Médio;Capital;Casado;10
+04/10/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;64;Ensino Médio;Capital;Solteiro;16
+02/04/2020;0;4_Quinta-Feira;Noite;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;1;Fora de idade escolar;Capital;Solteiro;18
+22/06/2022;0;3_Quarta-Feira;Manhã;Não presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;6;Ensino Fundamental;Interior;Solteiro;7
+02/06/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria - RVI;F;15;Fora de idade escolar;Região Metropolitana;Solteiro;15
+23/10/2019;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;0;Fora de idade escolar;Capital;Solteiro;13
+24/06/2022;0;5_Sexta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;M;64;Ensino Fundamental;Capital;Casado;14
+01/07/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;55;Ensino Fundamental;Região Metropolitana;Solteiro;11
+30/11/2021;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;F;16;Ensino Médio;Capital;Solteiro;9
+27/03/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;M;24;Ensino Médio;Capital;Solteiro;9
+07/06/2022;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria - RVI;F;5;Fora de idade escolar;Interior;Solteiro;13
+27/08/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;59;Ensino Médio;Capital;Casado;14
+18/10/2021;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;F;62;Ensino Fundamental;Capital;Casado;10
+06/01/2021;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;64;Ensino Médio;Capital;Casado;11
+19/02/2020;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;M;10;Ensino Fundamental;Interior;Solteiro;13
+03/12/2021;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;12;Ensino Fundamental;Outros estados;Solteiro;16
+05/10/2021;0;2_Terça-Feira;Tarde;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;M;1;Fora de idade escolar;Capital;Solteiro;15
+25/02/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;49;Ensino Fundamental;Capital;Solteiro;15
+15/07/2022;0;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;M;58;Superior;Capital;Casado;11
+29/10/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pós-alta;F;40;Ensino Fundamental;Outros estados;Solteiro;9
+10/12/2021;1;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;5;iletrado;Interior;Solteiro;9
+16/08/2022;0;2_Terça-Feira;Tarde;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;6;Fora de idade escolar;Região Metropolitana;Solteiro;16
+01/04/2022;0;5_Sexta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;M;9;Fora de idade escolar;Capital;Solteiro;15
+20/11/2020;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;2;Fora de idade escolar;Interior;Solteiro;15
+30/06/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;40;Superior;Capital;Solteiro;10
+22/04/2020;1;3_Quarta-Feira;Tarde;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;F;3;Fora de idade escolar;Capital;Solteiro;15
+29/04/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;7;Fora de idade escolar;Interior;Solteiro;11
+25/06/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;90;Ensino Fundamental;Região Metropolitana;Viúvo;17
+20/06/2022;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe Interprogramas - Pré-internação;M;50;Superior;Capital;Solteiro;14
+03/08/2021;0;2_Terça-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;32;Ensino Médio;Capital;Solteiro;14
+27/08/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria - Prioridades;M;17;iletrado;Interior;Solteiro;15
+04/12/2018;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;19;Fora de idade escolar;Capital;Solteiro;17
+14/04/2021;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;80;Ensino Fundamental;Capital;sem união estável;10
+18/11/2020;0;3_Quarta-Feira;Tarde;Não presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;67;iletrado;Região Metropolitana;Casado;16
+10/05/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;27;Ensino Fundamental;Interior;Solteiro;10
+23/10/2019;1;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;F;3;Fora de idade escolar;Outros estados;Solteiro;15
+08/08/2022;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;41;Ensino Médio;Região Metropolitana;Solteiro;16
+04/05/2021;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;4;Fora de idade escolar;Outros estados;Solteiro;10
+08/03/2021;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;M;31;Superior;Capital;Casado;10
+03/04/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Atend. Específico;M;3;Fora de idade escolar;Interior;Solteiro;10
+10/08/2022;0;3_Quarta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 4;M;9;Ensino Fundamental;Interior;Solteiro;9
+18/05/2022;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;76;Superior;Capital;Casado;8
+11/06/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;F;23;Superior;Capital;Solteiro;10
+08/02/2022;0;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;37;Ensino Médio;Capital;Solteiro;8
+27/04/2020;0;1_Segunda-Feira;Tarde;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 1;M;15;Ensino Fundamental;Capital;Solteiro;15
+06/08/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;66;Fora de idade escolar;Interior;Casado;11
+18/12/2020;0;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;34;Ensino Médio;Outros estados;Solteiro;11
+08/02/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;60;Ensino Médio;Capital;Viúvo;11
+02/12/2021;0;4_Quinta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;86;Ensino Fundamental;Capital;Casado;16
+16/03/2022;0;3_Quarta-Feira;Manhã;Não presencial;;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;M;50;Superior;Capital;União Estável;10
+15/04/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;40;Superior;Capital;Casado;9
+02/05/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;58;Ensino Médio;Capital;Casado;11
+06/07/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;4;Fora de idade escolar;Interior;Solteiro;16
+23/03/2022;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe Interprogramas - Pré-internação;F;63;Ensino Médio;Capital;Solteiro;9
+07/11/2018;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;F;4;Fora de idade escolar;Capital;Solteiro;15
+05/11/2021;0;5_Sexta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 1;F;59;Superior;Capital;Casado;16
+26/05/2022;0;4_Quinta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;M;57;Superior;Capital;Casado;16
+04/10/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;23;Ensino Médio;Região Metropolitana;Solteiro;9
+29/07/2021;0;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;17;Ensino Médio;Capital;Solteiro;14
+31/07/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;61;Ensino Fundamental;Capital;Casado;14
+06/09/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;30;Superior;Interior;Solteiro;10
+06/03/2019;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;M;16;Ensino Fundamental;Interior;Sem informação;15
+14/07/2022;0;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;M;2;Fora de idade escolar;Interior;Solteiro;17
+30/10/2019;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Avaliação Vesical ;Equipe Reab. Infantil 4;F;3;Fora de idade escolar;Região Metropolitana;Solteiro;16
+05/10/2021;0;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;M;3;Fora de idade escolar;Interior;Solteiro;11
+20/05/2020;0;3_Quarta-Feira;Tarde;Não presencial;;Ambulatório;Lesão Medular;Equipe LM;F;20;Ensino Fundamental;Outros estados;Sem informação;18
+06/12/2021;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;23;Ensino Médio;Interior;Solteiro;10
+06/08/2021;0;5_Sexta-Feira;Tarde;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 2;M;3;Fora de idade escolar;Capital;Solteiro;12
+24/08/2022;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;4;Fora de idade escolar;Interior;Solteiro;15
+07/06/2022;0;2_Terça-Feira;Manhã;Presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;M;13;Ensino Fundamental;Interior;Solteiro;9
+16/01/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;28;Ensino Fundamental;Outros estados;Solteiro;14
+17/07/2020;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;0;Fora de idade escolar;Capital;Solteiro;10
+10/12/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;45;Ensino Médio;Interior;Casado;16
+17/10/2018;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Dra. Luciana;M;36;Superior;Capital;Casado;14
+16/07/2019;0;2_Terça-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;F;58;Ensino Médio;Capital;Solteiro;8
+15/03/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;10;iletrado;Região Metropolitana;Solteiro;10
+26/10/2020;1;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;73;Ensino Médio;Capital;Viúvo;17
+19/02/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;36;Ensino Fundamental;Capital;Casado;10
+30/05/2019;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Integrado - PP;F;4;Fora de idade escolar;Interior;Solteiro;13
+25/07/2022;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - RVI;M;35;Ensino Médio;Capital;Solteiro;14
+11/05/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;11;Fora de idade escolar;Região Metropolitana;Solteiro;8
+25/11/2020;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;F;39;Ensino Médio;Capital;Solteiro;9
+20/11/2020;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;9;Fora de idade escolar;Interior;Solteiro;9
+04/12/2019;1;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;19;Ensino Médio;Região Metropolitana;Solteiro;16
+10/12/2020;0;4_Quinta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa Intensivo;Equipe Reab. Infantil 4;M;5;Ensino Fundamental;Outros estados;Solteiro;10
+25/09/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;58;Ensino Médio;Capital;Solteiro;16
+17/11/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;39;Ensino Médio;Interior;Casado;10
+17/06/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;72;iletrado;Capital;Viúvo;10
+11/02/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;37;Ensino Fundamental;Capital;Casado;17
+08/08/2019;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;64;Ensino Fundamental;Capital;sem união estável;16
+10/03/2022;0;4_Quinta-Feira;Manhã;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame-Teleatendimento;M;2;Fora de idade escolar;Capital;Solteiro;12
+29/08/2022;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;M;54;Ensino Fundamental;Capital;Casado;16
+18/08/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;M;40;Ensino Fundamental;Capital;Solteiro;9
+05/01/2022;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;M;11;Fora de idade escolar;Capital;Solteiro;14
+18/07/2019;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;19;Ensino Fundamental;Outros estados;Solteiro;15
+28/01/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;2;Fora de idade escolar;Capital;Solteiro;10
+01/07/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;35;Ensino Médio;Capital;Solteiro;16
+24/12/2021;0;5_Sexta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;55;Ensino Fundamental;Interior;Casado;8
+06/11/2020;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 2;F;31;Ensino Médio;Interior;Casado;14
+17/06/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;57;Ensino Médio;Interior;Casado;11
+05/08/2022;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Pós-alta;M;46;Superior;Interior;Casado;14
+16/09/2019;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Aula de Orientação;Equipe Reab. Infantil 3;M;5;Ensino Fundamental;Capital;Solteiro;9
+14/11/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;75;iletrado;Interior;Casado;11
+11/06/2020;1;4_Quinta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;M;27;Ensino Médio;Outros estados;Solteiro;16
+24/07/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;F;1;Fora de idade escolar;Outros estados;Solteiro;15
+14/02/2020;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Orientação por Telefone;Equipe Pediatria - Pré-exame;M;9;Ensino Fundamental;Outros estados;Solteiro;10
+16/11/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;M;32;Superior;Capital;Casado;17
+22/06/2020;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;F;58;Ensino Fundamental;Interior;Casado;9
+04/10/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;M;21;Ensino Fundamental;Interior;Solteiro;10
+19/02/2021;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;M;73;iletrado;Região Metropolitana;Casado;11
+13/08/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;61;Ensino Fundamental;Capital;Casado;11
+25/01/2022;0;2_Terça-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;66;Ensino Médio;Capital;Casado;15
+15/10/2020;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;F;61;Ensino Fundamental;Capital;sem união estável;10
+26/04/2022;0;2_Terça-Feira;Manhã;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;52;Ensino Médio;Região Metropolitana;Solteiro;9
+18/05/2020;0;1_Segunda-Feira;Manhã;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;F;3;Fora de idade escolar;Outros estados;Solteiro;9
+22/04/2021;0;4_Quinta-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;4;Fora de idade escolar;Interior;Solteiro;10
+14/07/2020;0;2_Terça-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;F;70;Superior;Interior;Casado;16
+08/09/2021;0;3_Quarta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;F;3;iletrado;Capital;Solteiro;11
+17/04/2020;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Orientação;Equipe RN (A);M;64;iletrado;Capital;sem união estável;11
+11/09/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;F;18;Ensino Fundamental;Capital;Solteiro;15
+26/03/2019;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;53;Ensino Médio;Capital;Solteiro;9
+12/05/2022;0;4_Quinta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;M;42;Ensino Fundamental;Região Metropolitana;Solteiro;16
+29/07/2022;0;5_Sexta-Feira;Manhã;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;M;18;iletrado;Interior;Solteiro;7
+09/09/2020;1;3_Quarta-Feira;Tarde;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;F;12;Fora de idade escolar;Outros estados;Solteiro;15
+06/05/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;51;Ensino Fundamental;Capital;Solteiro;9
+03/04/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;38;Ensino Médio;Capital;Solteiro;16
+24/09/2018;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Aula de Orientação;Equipe Reab. Infantil 2;M;10;Ensino Fundamental;Outros estados;Solteiro;9
+23/01/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;44;Ensino Médio;Região Metropolitana;Solteiro;16
+04/07/2022;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;31;Superior;Interior;Solteiro;9
+20/10/2020;0;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;55;Ensino Médio;Capital;Casado;11
+22/07/2020;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;27;Ensino Fundamental;Região Metropolitana;Solteiro;16
+22/08/2018;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;40;Ensino Médio;Outros estados;Solteiro;11
+19/05/2022;0;4_Quinta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;4;iletrado;Interior;Solteiro;14
+04/10/2021;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;61;Ensino Médio;Região Metropolitana;Casado;16
+22/02/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;M;39;Ensino Médio;Região Metropolitana;Solteiro;9
+14/12/2020;0;1_Segunda-Feira;Tarde;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;6;Fora de idade escolar;Interior;Solteiro;13
+19/11/2020;0;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;5;iletrado;Interior;Solteiro;15
+11/02/2021;0;4_Quinta-Feira;Noite;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;49;Ensino Fundamental;Capital;Casado;18
+28/04/2020;1;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;9;Fora de idade escolar;Capital;Solteiro;10
+22/08/2022;0;1_Segunda-Feira;Tarde;Não presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;4;iletrado;Capital;Solteiro;16
+24/08/2022;0;3_Quarta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 2;M;27;Ensino Fundamental;Interior;Solteiro;14
+22/07/2022;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;48;Superior;Capital;Solteiro;16
+19/12/2019;1;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Integrado - PP;M;7;Fora de idade escolar;Capital;Solteiro;16
+05/05/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;54;Ensino Médio;Capital;sem união estável;8
+19/02/2020;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;68;Ensino Fundamental;Capital;Casado;16
+20/09/2021;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;74;Ensino Fundamental;Capital;Casado;9
+05/07/2022;1;2_Terça-Feira;Tarde;Não presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;70;Ensino Fundamental;Capital;Viúvo;17
+08/03/2022;1;2_Terça-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Pediatria;Equipe Pediatria;F;5;Fora de idade escolar;Interior;Solteiro;11
+28/04/2020;0;2_Terça-Feira;Tarde;Não presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 1;M;1;Fora de idade escolar;Interior;Solteiro;14
+15/09/2020;1;2_Terça-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;M;40;Ensino Médio;Interior;Casado;14
+24/09/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;23;Superior;Capital;Solteiro;10
+21/03/2022;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;22;Ensino Fundamental;Região Metropolitana;Solteiro;9
+15/07/2022;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica;Equipe RN - Pós-alta;F;37;Ensino Fundamental;Capital;Casado;11
+25/05/2020;1;1_Segunda-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe Pediatria - Pré-exame;F;3;Fora de idade escolar;Capital;Solteiro;15
+14/10/2020;1;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;50;Ensino Fundamental;Capital;Solteiro;10
+14/02/2020;0;5_Sexta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Integrado;Equipe Reab. Infantil 2;M;1;Fora de idade escolar;Capital;Solteiro;9
+21/11/2018;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;4;Fora de idade escolar;Interior;Solteiro;16
+31/01/2020;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;4;Fora de idade escolar;Interior;Solteiro;15
+25/01/2021;0;1_Segunda-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 2;M;78;Superior;Outros estados;Casado;9
+04/07/2022;0;1_Segunda-Feira;Manhã;Presencial;;Reabilitação Infantil;Reeducação Vesical - Infantil;Equipe Reab. Infantil 1;F;9;Ensino Fundamental;Interior;Solteiro;9
+26/11/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;1;Fora de idade escolar;Capital;Solteiro;14
+28/02/2019;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;62;iletrado;Capital;Casado;16
+18/10/2018;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;45;Superior;Capital;Casado;10
+21/02/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;28;Superior;Capital;Solteiro;10
+01/12/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;M;70;Ensino Fundamental;Capital;sem união estável;14
+10/07/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;56;Superior;Capital;Solteiro;16
+07/10/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;F;50;Superior;Capital;sem união estável;9
+09/12/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;67;Ensino Fundamental;Região Metropolitana;Casado;10
+16/04/2019;0;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;8;iletrado;Outros estados;Solteiro;9
+10/06/2022;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;53;Ensino Médio;Região Metropolitana;União Estável;10
+15/04/2021;0;4_Quinta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 1;M;13;Ensino Fundamental;Capital;Solteiro;9
+10/09/2021;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria - RVI;F;5;Fora de idade escolar;Capital;Solteiro;9
+30/06/2022;1;4_Quinta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 1;M;4;Fora de idade escolar;Capital;Solteiro;11
+06/05/2022;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria - Pré-exame;M;0;Fora de idade escolar;Região Metropolitana;Solteiro;8
+21/06/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;69;iletrado;Região Metropolitana;Solteiro;16
+04/08/2020;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;53;Superior;Capital;Casado;10
+22/10/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;27;Superior;Interior;Solteiro;9
+06/05/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;58;Ensino Médio;Capital;Casado;15
+03/03/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;44;Ensino Médio;Capital;Solteiro;17
+22/10/2021;1;5_Sexta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;5;Ensino Fundamental;Interior;Solteiro;15
+20/01/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;76;Ensino Médio;Capital;Viúvo;16
+14/08/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe Interprogramas - Pré-internação;M;35;Superior;Capital;Casado;8
+27/11/2019;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;3;Fora de idade escolar;Capital;Solteiro;8
+15/09/2021;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;F;59;Ensino Médio;Capital;Casado;10
+19/12/2018;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;53;Ensino Fundamental;Interior;Casado;8
+20/04/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;7;Fora de idade escolar;Capital;Solteiro;15
+22/02/2019;1;5_Sexta-Feira;Manhã;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;10;Fora de idade escolar;Região Metropolitana;Solteiro;11
+31/08/2018;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Reavaliação pós-consulta;Equipe RN (A);F;74;iletrado;Capital;Viúvo;12
+18/09/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Dra. Luciana - Prioridades;F;58;Superior;Interior;Casado;13
+13/08/2021;0;5_Sexta-Feira;Tarde;Não presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 4;F;12;iletrado;Região Metropolitana;Solteiro;13
+17/05/2022;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;M;56;Ensino Fundamental;Região Metropolitana;Casado;10
+08/07/2019;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);M;30;Ensino Fundamental;Região Metropolitana;Solteiro;16
+22/07/2022;1;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;1;Fora de idade escolar;Interior;Solteiro;13
+27/09/2018;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;M;2;Fora de idade escolar;Interior;Solteiro;10
+14/08/2020;1;5_Sexta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Integrado;Equipe Reab. Infantil 1;F;1;Fora de idade escolar;Capital;Solteiro;8
+29/09/2021;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;F;45;Ensino Fundamental;Outros estados;Solteiro;15
+05/04/2022;1;2_Terça-Feira;Tarde;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;M;31;Ensino Médio;Capital;Solteiro;17
+17/06/2022;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Lesão Medular;Equipe LM - 2;M;67;Ensino Fundamental;Capital;Casado;14
+17/10/2018;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;8;Ensino Fundamental;Capital;Solteiro;14
+04/08/2022;0;4_Quinta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;F;31;Superior;Capital;Solteiro;16
+27/04/2022;1;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;F;9;Fora de idade escolar;Capital;Solteiro;15
+09/03/2021;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reavaliação pós-consulta;Equipe RN (A);M;70;Ensino Médio;Capital;sem união estável;12
+10/10/2018;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Dra. Luciana;F;65;iletrado;Capital;sem união estável;15
+25/09/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;72;Ensino Fundamental;Região Metropolitana;sem união estável;17
+25/10/2021;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;M;66;iletrado;Interior;Casado;9
+01/04/2021;0;4_Quinta-Feira;Manhã;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;41;Superior;Capital;Casado;11
+04/05/2022;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 1;F;26;Fora de idade escolar;Interior;Solteiro;10
+17/06/2021;0;4_Quinta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A);F;67;Ensino Fundamental;Capital;Casado;9
+23/02/2022;1;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);F;27;Ensino Fundamental;Capital;Solteiro;11
+21/06/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pós-alta;M;67;Ensino Médio;Capital;Casado;14
+21/09/2018;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;3;Fora de idade escolar;Capital;Solteiro;10
+26/11/2018;1;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;F;27;Ensino Médio;Região Metropolitana;Solteiro;14
+28/07/2021;0;3_Quarta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna;F;67;Ensino Fundamental;Interior;Viúvo;9
+17/09/2020;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe Interdisciplinar;M;54;Ensino Fundamental;Capital;Casado;9
+03/09/2018;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;42;Ensino Fundamental;Região Metropolitana;Casado;10
+18/10/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;M;55;Superior;Região Metropolitana;Casado;11
+23/07/2019;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;M;27;Ensino Fundamental;Outros estados;Solteiro;16
+14/08/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;49;Ensino Médio;Capital;Casado;16
+29/10/2021;0;5_Sexta-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Pós-alta;M;29;Ensino Médio;Capital;Solteiro;14
+06/10/2021;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;12;Fora de idade escolar;Interior;Solteiro;11
+10/02/2022;1;4_Quinta-Feira;Tarde;Não presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;61;Superior;Capital;sem união estável;18
+23/05/2019;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;35;Ensino Médio;Interior;Solteiro;9
+17/01/2020;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;34;Ensino Fundamental;Interior;Casado;9
+29/06/2022;0;3_Quarta-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;47;Ensino Médio;Capital;Solteiro;16
+01/07/2022;0;5_Sexta-Feira;Tarde;Presencial;Confirmada;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;M;2;Fora de idade escolar;Capital;Solteiro;16
+14/12/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B) - Pré-internação;M;22;Ensino Médio;Interior;Solteiro;13
+03/01/2022;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe Interprogramas - Pré-internação;F;72;iletrado;Capital;Casado;14
+04/10/2019;0;5_Sexta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Dra. Luciana;F;30;Ensino Médio;Capital;Solteiro;13
+23/03/2021;0;2_Terça-Feira;Manhã;Presencial;;Reabilitação Infantil;Avaliação Vesical ;Equipe Reab. Infantil 3;M;2;Fora de idade escolar;Interior;Solteiro;8
+26/06/2020;1;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;6;Ensino Fundamental;Região Metropolitana;Solteiro;11
+04/09/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Específico;M;5;Fora de idade escolar;Capital;Solteiro;15
+10/09/2020;0;4_Quinta-Feira;Manhã;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;42;Ensino Fundamental;Capital;Solteiro;10
+25/07/2019;0;4_Quinta-Feira;Manhã;Presencial;;Reabilitação Infantil;Programa Intensivo;Equipe Reab. Infantil 1;F;12;Ensino Fundamental;Capital;Solteiro;11
+19/06/2019;1;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Socialização;Equipe Reabilitação Infantil;M;22;Ensino Médio;Capital;Solteiro;15
+02/10/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;M;52;Superior;Capital;sem união estável;16
+24/12/2021;0;5_Sexta-Feira;Tarde;Não presencial;;Ambulatório;Orientação por Telefone;Equipe LM - Pré-exame;F;61;Ensino Médio;Capital;Casado;14
+02/08/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;26;Ensino Médio;Região Metropolitana;Solteiro;11
+13/12/2021;0;1_Segunda-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica B;Equipe RN(B) - Prioridades;F;79;Ensino Médio;Capital;Viúvo;9
+05/04/2019;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Orientação por Telefone;Equipe Pediatria - Pré-exame;F;5;Fora de idade escolar;Outros estados;Solteiro;11
+13/02/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Pediatria;Atend. Integrado - PP;F;5;Fora de idade escolar;Capital;Solteiro;16
+17/08/2020;0;1_Segunda-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - Teleatendimento;M;43;Ensino Fundamental;Região Metropolitana;Solteiro;16
+20/07/2020;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;52;Superior;Capital;Solteiro;16
+20/05/2022;0;5_Sexta-Feira;Manhã;Presencial;;Ambulatório;Pediatria;Equipe Pediatria;F;9;Ensino Fundamental;Interior;Solteiro;10
+08/12/2021;0;3_Quarta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;F;47;Ensino Fundamental;Capital;Casado;16
+10/09/2018;0;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM;M;31;Ensino Fundamental;Capital;Solteiro;16
+07/08/2019;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;59;Ensino Médio;Interior;Casado;15
+29/07/2022;0;5_Sexta-Feira;Manhã;Presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Pré-internação;F;30;Superior;Interior;Solteiro;10
+18/12/2018;0;2_Terça-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;56;Superior;Capital;Casado;10
+30/07/2020;0;4_Quinta-Feira;Tarde;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;M;30;Ensino Médio;Capital;Casado;16
+13/07/2021;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - 1;F;64;Ensino Fundamental;Capital;Casado;17
+18/02/2020;0;2_Terça-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-exame;F;20;Fora de idade escolar;Região Metropolitana;Solteiro;15
+19/02/2021;0;5_Sexta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Clinica Medica;Equipe Coluna - Teleatendimento;M;31;Ensino Médio;Capital;Casado;15
+17/05/2021;1;1_Segunda-Feira;Tarde;Presencial;Confirmada;Ambulatório;Lesão Medular;Equipe LM - 2;M;37;Ensino Fundamental;Capital;Casado;15
+25/10/2021;1;1_Segunda-Feira;Manhã;Presencial;Confirmada;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 3;M;8;Fora de idade escolar;Capital;Solteiro;12
+18/03/2022;0;5_Sexta-Feira;Manhã;Presencial;;Reabilitação Infantil;Atendimento Individual;Equipe Reab. Infantil 1;M;2;Fora de idade escolar;Interior;Solteiro;9
+23/01/2019;1;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Avaliação Vesical ;Equipe Reab. Infantil 4;M;1;Fora de idade escolar;Interior;Solteiro;15
+23/04/2020;0;4_Quinta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;1;Fora de idade escolar;Capital;Solteiro;13
+25/11/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna - Prioridades;F;42;Superior;Capital;Casado;11
+01/04/2019;0;1_Segunda-Feira;Manhã;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Pré-internação;F;19;Ensino Fundamental;Outros estados;Sem informação;11
+22/04/2021;0;4_Quinta-Feira;Manhã;Presencial;;Ambulatório;Reabilitação Neurológica B;Equipe RN (B);M;41;Ensino Médio;Capital;Casado;10
+22/01/2020;0;3_Quarta-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM - Prioridades;F;55;Ensino Médio;Capital;Solteiro;16
+22/08/2018;0;3_Quarta-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 1;F;33;iletrado;Região Metropolitana;Solteiro;13
+01/10/2018;0;1_Segunda-Feira;Tarde;Presencial;;Ambulatório;Lesão Medular;Equipe LM;M;32;Ensino Fundamental;Capital;Solteiro;17
+14/10/2020;0;3_Quarta-Feira;Manhã;Presencial;;Ambulatório;Clinica Medica;Equipe Coluna;F;58;Ensino Médio;Capital;Solteiro;10
+17/09/2018;0;1_Segunda-Feira;Tarde;Presencial;;Reabilitação Infantil;Orientação;Equipe Reab. Infantil 2;M;7;Fora de idade escolar;Interior;Solteiro;15
+23/07/2020;0;4_Quinta-Feira;Tarde;Não presencial;Confirmada;Ambulatório;Reabilitação Neurológica A;Equipe RN (A) - Prioridades;M;71;Ensino Médio;Capital;Solteiro;17
